@@ -1,6 +1,6 @@
 # Dear Mr. Majd, Thank you for your offer
 
-This project is created with [James Fury](mailto:dragon99steel@gmail.com).
+This project is created with [Tomas Dean](mailto:athene227@gmail.com).
 
 ## Before you go
 
@@ -10,7 +10,7 @@ I hope you could pleased to understand this point as well
 
 ## How to clone this repository
 
-### `git clone https://github.com/dragon1227/nft-marketplace.git`
+### `git clone https://github.com/athene227/nft-marketplace.git`
 
 In the project directory, you can run:
 
@@ -136,4 +136,4 @@ Thx for your reading and attention fully.
 
 Kind regards.
 
-Mr. James
+Tomas
