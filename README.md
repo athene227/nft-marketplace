@@ -1,7 +1,5 @@
 # Dear Mr. Majd, Thank you for your offer
 
-This project is created with [Tomas Dean](mailto:athene227@gmail.com).
-
 ## Before you go
 
 I was kinda busy during this project, so I needed time to optimize this project
@@ -135,5 +133,3 @@ So although I have so much to want to tell you about, I would complete my readme
 Thx for your reading and attention fully.
 
 Kind regards.
-
-Tomas
